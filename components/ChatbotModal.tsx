@@ -190,8 +190,9 @@ export function ChatbotModal() {
       {/* Floating Chat Trigger Button */}
       {!isOpen && (
         <button
+          type="button"
           onClick={() => setIsOpen(true)}
-          className="fixed bottom-20 right-4 sm:bottom-6 sm:right-6 z-50 flex items-center gap-2 bg-emerald-800 hover:bg-emerald-900 text-white px-4 py-2.5 rounded-full shadow-lg shadow-emerald-950/25 transition-all hover:scale-105 active:scale-95 group"
+          className="fixed bottom-20 right-4 sm:bottom-6 sm:right-6 z-50 flex items-center gap-2 bg-emerald-800 hover:bg-emerald-900 text-white px-4 py-2.5 rounded-full shadow-lg shadow-emerald-950/25 transition-all hover:scale-105 active:scale-95 group cursor-pointer"
           aria-label="Open AI Road Contractor Chatbot"
         >
           <div className="relative">
