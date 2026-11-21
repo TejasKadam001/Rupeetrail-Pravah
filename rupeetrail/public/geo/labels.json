@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Arabian Sea",
+    "lon": 72.775,
+    "lat": 19.025,
+    "kind": "water",
+    "detail": 0
+  },
+  {
+    "name": "Mumbai",
+    "lon": 72.8692,
+    "lat": 19.055,
+    "kind": "city",
+    "detail": 0
+  },
+  {
+    "name": "Thane",
+    "lon": 72.97018,
+    "lat": 19.19434,
+    "kind": "city",
+    "detail": 0
+  },
+  {
+    "name": "Navi Mumbai",
+    "lon": 73.01986,
+    "lat": 19.03082,
+    "kind": "city",
+    "detail": 0
+  },
+  {
+    "name": "Colaba",
+    "lon": 72.82597,
+    "lat": 18.9151,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Bandra",
+    "lon": 72.83026,
+    "lat": 19.05835,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Borivali",
+    "lon": 72.86193,
+    "lat": 19.22672,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Andheri",
+    "lon": 72.8542,
+    "lat": 19.11587,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Ghatkopar",
+    "lon": 72.91864,
+    "lat": 19.08422,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Mulund",
+    "lon": 72.96104,
+    "lat": 19.17046,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Worli",
+    "lon": 72.81788,
+    "lat": 19.01173,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Powai",
+    "lon": 72.90735,
+    "lat": 19.11871,
+    "kind": "local",
+    "detail": 0
+  },
+  {
+    "name": "Dadar",
+    "lon": 72.83822,
+    "lat": 19.02388,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Goregaon",
+    "lon": 72.8412,
+    "lat": 19.16333,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Malad",
+    "lon": 72.84122,
+    "lat": 19.18402,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Juhu",
+    "lon": 72.82753,
+    "lat": 19.10701,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Chembur",
+    "lon": 72.89798,
+    "lat": 19.05482,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Elephanta Island",
+    "lon": 72.9319,
+    "lat": 18.96231,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Vashi",
+    "lon": 72.99525,
+    "lat": 19.07579,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Airoli",
+    "lon": 72.9967,
+    "lat": 19.15826,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Uran",
+    "lon": 72.9386,
+    "lat": 18.88081,
+    "kind": "local",
+    "detail": 0.78
+  },
+  {
+    "name": "Byculla",
+    "lon": 72.83678,
+    "lat": 18.97369,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Kandivali",
+    "lon": 72.86262,
+    "lat": 19.2052,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Sion",
+    "lon": 72.86536,
+    "lat": 19.04281,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Dahisar",
+    "lon": 72.85296,
+    "lat": 19.24888,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Kurla",
+    "lon": 72.88255,
+    "lat": 19.06289,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Vikhroli",
+    "lon": 72.93553,
+    "lat": 19.11725,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Mankhurd",
+    "lon": 72.93392,
+    "lat": 19.05208,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Kharghar",
+    "lon": 73.0735,
+    "lat": 19.05252,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Santacruz",
+    "lon": 72.8373,
+    "lat": 19.08441,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Bandra Kurla Complex",
+    "lon": 72.86573,
+    "lat": 19.06711,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Versova",
+    "lon": 72.81873,
+    "lat": 19.13098,
+    "kind": "local",
+    "detail": 1.15
+  },
+  {
+    "name": "Nerul",
+    "lon": 73.02331,
+    "lat": 19.03709,
+    "kind": "local",
+    "detail": 1.15
+  }
+]

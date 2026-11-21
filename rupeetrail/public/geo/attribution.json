@@ -1,0 +1,12 @@
+{
+  "description": "Offline base cartography of Mumbai and its surroundings. Streets, land cover, coastline and geographic place labels provide orientation. The interactive repair segment overlay uses separate synthetic coordinates from the challenge dataset.",
+  "attribution": [
+    {"name":"OpenStreetMap contributors", "url":"https://www.openstreetmap.org/copyright", "license":"ODbL 1.0"},
+    {"name":"OpenMapTiles", "url":"https://openmaptiles.org/", "schema_license":"CC BY 4.0"},
+    {"name":"OpenFreeMap", "url":"https://openfreemap.org/", "tile_release":"20261115_080022_pt"}
+  ],
+  "rendering": "Custom rendering of OpenMapTiles schema layers from 63 zoom-12 tiles. The Arabian Sea label is positioned for this extent. Geographic names use the source English place layer with some East / West suffixes omitted at overview scale.",
+  "bounds_wgs84": {"west":72.55, "south":18.83, "east":73.23, "north":19.36},
+  "projection": "Local equirectangular. For a 1200 × 990 reference grid use x = (longitude − 72.55) / 0.68 × 1200 and y = (19.36 − latitude) / 0.53 × 990. The raster has a 2× pixel density.",
+  "source": "https://tiles.openfreemap.org/planet/20261115_080022_pt/{z}/{x}/{y}.pbf"
+}
