@@ -1,0 +1,384 @@
+[
+  {
+    "code": "A",
+    "name": "Colaba, Fort, Churchgate",
+    "zone": "Zone 1",
+    "office": "A Ward Office (synthetic)",
+    "area_km2": 20.8,
+    "population": 187095,
+    "budget_inr": 1600000,
+    "localities": [
+      "Colaba",
+      "Cuffe Parade",
+      "Fort",
+      "Churchgate",
+      "Nariman Point"
+    ]
+  },
+  {
+    "code": "B",
+    "name": "Dongri, Masjid Bunder",
+    "zone": "Zone 1",
+    "office": "B Ward Office (synthetic)",
+    "area_km2": 9.4,
+    "population": 136401,
+    "budget_inr": 4300000,
+    "localities": [
+      "Dongri",
+      "Masjid Bunder",
+      "Sandhurst Road",
+      "Umerkhadi"
+    ]
+  },
+  {
+    "code": "C",
+    "name": "Kalbadevi, Bhuleshwar, Marine Lines",
+    "zone": "Zone 1",
+    "office": "C Ward Office (synthetic)",
+    "area_km2": 6.7,
+    "population": 169381,
+    "budget_inr": 900000,
+    "localities": [
+      "Kalbadevi",
+      "Bhuleshwar",
+      "Marine Lines",
+      "Girgaon"
+    ]
+  },
+  {
+    "code": "D",
+    "name": "Grant Road, Malabar Hill, Tardeo",
+    "zone": "Zone 1",
+    "office": "D Ward Office (synthetic)",
+    "area_km2": 10.7,
+    "population": 361830,
+    "budget_inr": 1600000,
+    "localities": [
+      "Grant Road",
+      "Malabar Hill",
+      "Tardeo",
+      "Nana Chowk",
+      "Peddar Road"
+    ]
+  },
+  {
+    "code": "E",
+    "name": "Byculla, Agripada, Mumbai Central",
+    "zone": "Zone 1",
+    "office": "E Ward Office (synthetic)",
+    "area_km2": 9.8,
+    "population": 392894,
+    "budget_inr": 5300000,
+    "localities": [
+      "Byculla",
+      "Agripada",
+      "Mumbai Central",
+      "Madanpura",
+      "Nagpada"
+    ]
+  },
+  {
+    "code": "F/S",
+    "name": "Parel, Lalbaug, Sewri",
+    "zone": "Zone 2",
+    "office": "F/S Ward Office (synthetic)",
+    "area_km2": 15.1,
+    "population": 342792,
+    "budget_inr": 9800000,
+    "localities": [
+      "Parel",
+      "Lalbaug",
+      "Sewri",
+      "Hindmata",
+      "Dadar East"
+    ]
+  },
+  {
+    "code": "F/N",
+    "name": "Matunga, Sion, Wadala",
+    "zone": "Zone 2",
+    "office": "F/N Ward Office (synthetic)",
+    "area_km2": 21.6,
+    "population": 505104,
+    "budget_inr": 10500000,
+    "localities": [
+      "Matunga",
+      "Sion",
+      "Wadala",
+      "Kings Circle",
+      "Antop Hill"
+    ]
+  },
+  {
+    "code": "G/S",
+    "name": "Worli, Lower Parel, Prabhadevi",
+    "zone": "Zone 2",
+    "office": "G/S Ward Office (synthetic)",
+    "area_km2": 14.1,
+    "population": 368840,
+    "budget_inr": 3200000,
+    "localities": [
+      "Worli",
+      "Lower Parel",
+      "Prabhadevi",
+      "Elphinstone",
+      "Worli Naka"
+    ]
+  },
+  {
+    "code": "G/N",
+    "name": "Dadar West, Mahim, Dharavi",
+    "zone": "Zone 2",
+    "office": "G/N Ward Office (synthetic)",
+    "area_km2": 11.7,
+    "population": 572525,
+    "budget_inr": 8400000,
+    "localities": [
+      "Dadar West",
+      "Mahim",
+      "Dharavi",
+      "Shivaji Park",
+      "Matunga Labour Camp"
+    ]
+  },
+  {
+    "code": "H/E",
+    "name": "Bandra East, Santacruz East, Khar East",
+    "zone": "Zone 3",
+    "office": "H/E Ward Office (synthetic)",
+    "area_km2": 13.4,
+    "population": 574530,
+    "budget_inr": 8200000,
+    "localities": [
+      "Bandra East",
+      "Kalanagar",
+      "Santacruz East",
+      "Vakola",
+      "Kherwadi"
+    ]
+  },
+  {
+    "code": "H/W",
+    "name": "Bandra West, Khar West, Santacruz West",
+    "zone": "Zone 3",
+    "office": "H/W Ward Office (synthetic)",
+    "area_km2": 20.0,
+    "population": 316329,
+    "budget_inr": 4300000,
+    "localities": [
+      "Bandra West",
+      "Khar West",
+      "Santacruz West",
+      "Pali Hill",
+      "Linking Road"
+    ]
+  },
+  {
+    "code": "K/E",
+    "name": "Andheri East, Vile Parle East, Jogeshwari East",
+    "zone": "Zone 3",
+    "office": "K/E Ward Office (synthetic)",
+    "area_km2": 26.4,
+    "population": 787678,
+    "budget_inr": 9100000,
+    "localities": [
+      "Andheri East",
+      "Marol",
+      "Vile Parle East",
+      "Jogeshwari East",
+      "Chakala",
+      "Saki Naka"
+    ]
+  },
+  {
+    "code": "K/W",
+    "name": "Andheri West, Juhu, Vile Parle West",
+    "zone": "Zone 4",
+    "office": "K/W Ward Office (synthetic)",
+    "area_km2": 29.7,
+    "population": 772485,
+    "budget_inr": 8900000,
+    "localities": [
+      "Andheri West",
+      "Juhu",
+      "Vile Parle West",
+      "Versova",
+      "Oshiwara",
+      "Lokhandwala"
+    ]
+  },
+  {
+    "code": "P/S",
+    "name": "Goregaon",
+    "zone": "Zone 4",
+    "office": "P/S Ward Office (synthetic)",
+    "area_km2": 30.3,
+    "population": 471570,
+    "budget_inr": 4800000,
+    "localities": [
+      "Goregaon West",
+      "Goregaon East",
+      "Aarey Road",
+      "Bangur Nagar"
+    ]
+  },
+  {
+    "code": "P/N",
+    "name": "Malad",
+    "zone": "Zone 4",
+    "office": "P/N Ward Office (synthetic)",
+    "area_km2": 17.9,
+    "population": 935709,
+    "budget_inr": 7700000,
+    "localities": [
+      "Malad West",
+      "Malad East",
+      "Malvani",
+      "Marve Road",
+      "Kurar Village"
+    ]
+  },
+  {
+    "code": "R/S",
+    "name": "Kandivali",
+    "zone": "Zone 7",
+    "office": "R/S Ward Office (synthetic)",
+    "area_km2": 24.7,
+    "population": 701172,
+    "budget_inr": 6600000,
+    "localities": [
+      "Kandivali West",
+      "Kandivali East",
+      "Charkop",
+      "Thakur Village",
+      "Poisar"
+    ]
+  },
+  {
+    "code": "R/C",
+    "name": "Borivali",
+    "zone": "Zone 7",
+    "office": "R/C Ward Office (synthetic)",
+    "area_km2": 24.3,
+    "population": 535687,
+    "budget_inr": 2900000,
+    "localities": [
+      "Borivali West",
+      "Borivali East",
+      "Gorai",
+      "IC Colony",
+      "Magathane"
+    ]
+  },
+  {
+    "code": "R/N",
+    "name": "Dahisar",
+    "zone": "Zone 7",
+    "office": "R/N Ward Office (synthetic)",
+    "area_km2": 32.5,
+    "population": 369287,
+    "budget_inr": 4800000,
+    "localities": [
+      "Dahisar East",
+      "Dahisar West",
+      "Anand Nagar",
+      "Rawalpada"
+    ]
+  },
+  {
+    "code": "L",
+    "name": "Kurla",
+    "zone": "Zone 5",
+    "office": "L Ward Office (synthetic)",
+    "area_km2": 11.6,
+    "population": 906374,
+    "budget_inr": 11900000,
+    "localities": [
+      "Kurla West",
+      "Kurla East",
+      "Saki Naka Junction",
+      "Vinoba Bhave Nagar",
+      "Nehru Nagar",
+      "Kamani"
+    ]
+  },
+  {
+    "code": "M/E",
+    "name": "Govandi, Mankhurd, Deonar",
+    "zone": "Zone 5",
+    "office": "M/E Ward Office (synthetic)",
+    "area_km2": 39.6,
+    "population": 847437,
+    "budget_inr": 9100000,
+    "localities": [
+      "Govandi",
+      "Mankhurd",
+      "Deonar",
+      "Shivaji Nagar",
+      "Trombay"
+    ]
+  },
+  {
+    "code": "M/W",
+    "name": "Chembur",
+    "zone": "Zone 5",
+    "office": "M/W Ward Office (synthetic)",
+    "area_km2": 20.7,
+    "population": 423575,
+    "budget_inr": 4400000,
+    "localities": [
+      "Chembur",
+      "Tilak Nagar",
+      "Chedda Nagar",
+      "Shell Colony",
+      "RCF Colony"
+    ]
+  },
+  {
+    "code": "N",
+    "name": "Ghatkopar, Vikhroli",
+    "zone": "Zone 6",
+    "office": "N Ward Office (synthetic)",
+    "area_km2": 25.9,
+    "population": 647401,
+    "budget_inr": 6200000,
+    "localities": [
+      "Ghatkopar West",
+      "Ghatkopar East",
+      "Vikhroli",
+      "Pant Nagar",
+      "Asalpha"
+    ]
+  },
+  {
+    "code": "S",
+    "name": "Bhandup, Powai, Kanjurmarg",
+    "zone": "Zone 6",
+    "office": "S Ward Office (synthetic)",
+    "area_km2": 49.1,
+    "population": 756485,
+    "budget_inr": 9500000,
+    "localities": [
+      "Bhandup West",
+      "Bhandup East",
+      "Powai",
+      "Kanjurmarg",
+      "Nahur"
+    ]
+  },
+  {
+    "code": "T",
+    "name": "Mulund",
+    "zone": "Zone 6",
+    "office": "T Ward Office (synthetic)",
+    "area_km2": 62.2,
+    "population": 344530,
+    "budget_inr": 5100000,
+    "localities": [
+      "Mulund West",
+      "Mulund East",
+      "Mulund Check Naka",
+      "Nahur West"
+    ]
+  }
+]

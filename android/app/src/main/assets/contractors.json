@@ -1,0 +1,98 @@
+[
+  {
+    "id": "CT01",
+    "name": "Sahyadri Infra Works",
+    "empanelled_since": 2014,
+    "active_wards": [
+      "P/N",
+      "K/E",
+      "D",
+      "F/N",
+      "R/N",
+      "C",
+      "E"
+    ]
+  },
+  {
+    "id": "CT02",
+    "name": "Konkan Roadcon Pvt Ltd",
+    "empanelled_since": 2019,
+    "active_wards": [
+      "T",
+      "B",
+      "N",
+      "C",
+      "K/E",
+      "A"
+    ]
+  },
+  {
+    "id": "CT03",
+    "name": "Mahalaxmi Civil Contractors",
+    "empanelled_since": 2016,
+    "active_wards": [
+      "F/N",
+      "C",
+      "P/N",
+      "M/E",
+      "L",
+      "B",
+      "H/W"
+    ]
+  },
+  {
+    "id": "CT04",
+    "name": "Western Coast Asphalt Co",
+    "empanelled_since": 2019,
+    "active_wards": [
+      "E",
+      "M/E",
+      "F/N"
+    ]
+  },
+  {
+    "id": "CT05",
+    "name": "Deccan Paving Solutions",
+    "empanelled_since": 2012,
+    "active_wards": [
+      "K/W",
+      "R/S",
+      "B",
+      "A",
+      "H/E"
+    ]
+  },
+  {
+    "id": "CT06",
+    "name": "Shivneri Construction",
+    "empanelled_since": 2015,
+    "active_wards": [
+      "K/E",
+      "P/N",
+      "E",
+      "D"
+    ]
+  },
+  {
+    "id": "CT07",
+    "name": "Arabian Sea Engineering",
+    "empanelled_since": 2016,
+    "active_wards": [
+      "F/N",
+      "N",
+      "H/E"
+    ]
+  },
+  {
+    "id": "CT08",
+    "name": "Mithi Infra Projects",
+    "empanelled_since": 2019,
+    "active_wards": [
+      "G/S",
+      "R/N",
+      "P/N",
+      "C",
+      "K/E"
+    ]
+  }
+]
